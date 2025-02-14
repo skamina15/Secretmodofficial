@@ -1,20 +1,12 @@
                       {
     "credits": "@KafuHex",
     "showDialog": true,
-    "title": "UPDATE APK",
-    "message": "New update is available, to continue in our app please update it. 
- 
-What's new: 
-- Performance Improvements. 
-- Bug Fixes. 
-- New Features introduced. 
-- Others minor changes. 
- 
-Thanks for using",
+    "title": " SECRET MOD OFFICIAL 👻",
+    "message": "🔥 This App Modded By MR. NoOB For More Premium Unlocked & Vip Exclusive Apps Join Our Telegram Channel 🔥",
     "showNegativeButton": true,
     "negativeButtonText": "Update APK",
     "negativeButtonUrl": "https://telegram.me/Secretmodofficial",
-    "showPositiveButton": true,
+    "showPositiveButton": false,
     "positiveButtonText": "Cancel",
     "maxShowCount": 999,
     "controlByShowCount": true
