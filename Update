@@ -8,6 +8,6 @@
     "negativeButtonUrl": "https://t.me/+sCiH9kmXgCczMWRl",
     "showPositiveButton": false,
     "positiveButtonText": "Cancel",
-    "maxShowCount": 3,
+    "maxShowCount": 999,
     "controlByShowCount": true
 }
