@@ -6,10 +6,10 @@
 My Phone Number Ban Without Reason I LOST MY CHANNEL 😭 😭😭. 
 MISS YOU GUYS 😔",
     "showNegativeButton": true,
-    "negativeButtonText": "Update APK",
+    "negativeButtonText": "Chat With Me",
     "negativeButtonUrl": "https://t.me/secretmodofficialx",
-    "showPositiveButton": false,
+    "showPositiveButton": true,
     "positiveButtonText": "Cancel",
-    "maxShowCount": 999,
+    "maxShowCount": 3,
     "controlByShowCount": true
 }
