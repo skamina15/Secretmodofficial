@@ -1,15 +1,13 @@
                       {
     "credits": "@KafuHex",
-    "showDialog": false,
+    "showDialog": true,
     "title": "EXPIRED APP!!!",
-    "message": "🔥 I quit Modding Thanks Everyone 🙏 
-My Phone Number Ban Without Reason I LOST MY CHANNEL 😭 😭😭. 
-MISS YOU GUYS 😔",
+    "message": "🔥 Download Latest Version By Clicking On Update Button",
     "showNegativeButton": true,
-    "negativeButtonText": "Chat With Me",
-    "negativeButtonUrl": "https://t.me/secretmodofficialx",
-    "showPositiveButton": true,
+    "negativeButtonText": "Update",
+    "negativeButtonUrl": "https://t.me/Xtreme_Modz",
+    "showPositiveButton": false,
     "positiveButtonText": "Cancel",
-    "maxShowCount": 3,
+    "maxShowCount": 999,
     "controlByShowCount": true
 }
